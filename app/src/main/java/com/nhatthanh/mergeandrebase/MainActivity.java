@@ -3,6 +3,7 @@ package com.nhatthanh.mergeandrebase;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         //c1
         //c2
-
+        Button button;
         //b1
         //b2
     }
