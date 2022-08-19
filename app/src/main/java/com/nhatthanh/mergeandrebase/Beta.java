@@ -1,2 +1,4 @@
-package com.nhatthanh.mergeandrebase;public class Beta {
+package com.nhatthanh.mergeandrebase;
+
+public class Beta {
 }
